@@ -1,0 +1,7 @@
+{
+  "TelegramUserId": userid,
+  "InmoclickUrl": "url :)",
+  "RequestTimeoutInSeconds": 60,
+  "ScrapPeriodInMinutes": 30,
+  "TelegramBotToken": "token :)"
+}
