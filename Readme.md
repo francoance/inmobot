@@ -5,6 +5,8 @@ Inmobot es un simple scraper de Inmoclick que notifica a través de Telegram cua
 Inmobot fue una solución nacida de la bronca de haber perdido un departamento muy lindo por ser literalmente la segunda persona en ir a verlo, en un proceso de varios meses buscando un nuevo lugar donde vivir. Gracias a esto, y a una buena cuota de suerte, logré encontrar un nuevo lugar donde vivir después de pocos días.
 También es mi primer solución aprendiendo Go. 
 
+Inmoclick se convirtió en Inmoup. Por suerte, funcionalmente es lo mismo y el bot sigue funcionando. Solo hay que usar la nueva url.
+
 
 Como funciona
 -

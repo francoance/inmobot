@@ -11,7 +11,7 @@ var retries int64 = 0
 
 func InitHtmlParser() {
 	scraper = colly.NewCollector(
-		colly.AllowedDomains("inmoclick.com.ar"),
+		colly.AllowedDomains("inmoup.com.ar"),
 		colly.AllowURLRevisit(),
 	)
 	scraper.SetRequestTimeout(time.Duration(Configuration.RequestTimeoutInSeconds) * time.Second)
